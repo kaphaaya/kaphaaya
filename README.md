@@ -1,11 +1,6 @@
 <div align="center">
-
-# Kafayat Olaide "Brown" Aziz
-
-### Cloud & DevOps Engineer building the infrastructure businesses run on!!!
-
-<img src="https://img.shields.io/badge/📍_Lagos,_Nigeria-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/🎯_Focus-AWS_×_Web3_×_DevOps-111827?style=flat-square" />
+  <h1>Kafayat Olaide "Brown" Aziz</h1>
+  <p><b>DevOps Engineer · Cloud Infrastructure · Full-Stack Developer · Project Manager </b></p>
 
 <br/><br/>
 

@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Kafayat Olaide "Brown" Aziz</h1>
-  <p><b>DevOps Engineer · Cloud Infrastructure · Full-Stack Developer · Project Manager </b></p>
 
-<br/><br/>
+<h1>Kafayat Olaide "Brown" Aziz</h1>
+<p><b>DevOps Engineer · Cloud Infrastructure · Full-Stack Developer · Project Manager</b></p>
+<p>📍 Lagos, Nigeria</p>
 
 <a href="https://brownsdigitalconsult.com"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=3B82F6" /></a>
 <a href="https://linkedin.com/in/aziz-kafayat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -39,14 +39,14 @@ Search any phone number, business name, or handle and get a community-driven tru
 - Deployed on an Azure Ubuntu VM — [live at 130.107.145.125](http://130.107.145.125) · [images on Docker Hub](https://hub.docker.com/u/kaphaaya)
 - Fully automated CI/CD: every push to `main` builds both images, ships to Docker Hub, and redeploys — zero manual steps
 
-
 ---
 
 ## 📈 Currently
 
 - Studying for **AWS Solutions Architect Associate**
 - Building in **Web3** — Solidity & Rust — Dev3pack Fellow, SheFi Scholar
-- In the **DMI Microinternship with Cloud Advisory** — hands-on Devops infrastructure work
+- Completing the **Google Project Management Certificate**
+- In the **DMI Microinternship with Cloud Advisory** — hands-on DevOps infrastructure work
 
 ---
 
@@ -56,3 +56,13 @@ Search any phone number, business name, or handle and get a community-driven tru
   <img src="https://github-stats-extended.vercel.app/api?username=kaphaaya&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=kaphaaya&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+<div align="center">
+
+Open to DevOps / Cloud Engineering roles — let's connect.
+
+<img src="https://komarev.com/ghpvc/?username=kaphaaya&style=flat-square&color=blueviolet" />
+
+</div>
